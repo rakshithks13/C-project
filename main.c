@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//added a comment to test jenkins
 // Function prototypes
 void factorial();
 void reverse();
